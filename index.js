@@ -1,1 +1,0 @@
-window.pug = require('pug');
